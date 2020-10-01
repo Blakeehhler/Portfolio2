@@ -1,0 +1,41 @@
+body {
+  background-color: #751212 ;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+}
+p {
+  color: white;
+}
+
+nav{
+  background-color: #686868 !important;
+}
+
+.grey-box {
+  background-color: #686868;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  line-height: 60px;
+  background-color: #686868;
+  text-align: center;
+  color: grey;
+  position: fixed;
+}
+
+.name-box {
+  background-color: #751212 ;
+  margin-left: 10px;
+  padding-right: 5px;
+  padding-left: 5px;
+  color: #686868 !important;
+}
